@@ -3,18 +3,18 @@ Hello, I'm **Vishal Dusane** 👋
 About Me
 I am a passionate Azure .NET developer with 7 years of experience in building cloud-native applications and solutions. My expertise lies in leveraging Azure services and .NET technologies to deliver scalable, secure, and high-performance applications.
 
-🔭 I’m currently working on Azure seervices, leveraging Azure Functions and .NET Core.
+🔭 I’m currently working on Azure services, leveraging Azure Functions and .NET Core.
 🌱 I’m constantly learning and exploring new Azure services and .NET features.
 💬 Ask me about Azure, .NET Core, C#, Azure DevOps, Docker, Kubernetes, and more!
 
 👀 **Skills**
 Azure Cloud Services: Azure App Services, Azure Functions, Azure Storage, Azure DevOps, Azure SQL Database, Azure Logic Apps
 
-⚡ .NET Technologies: .NET Core, C#, ASP.NET Core, Entity Framework Core, MVC, Web API.
-⚡ DevOps: CI/CD pipelines, Docker, Kubernetes, Terraform, Azure Resource Manager (ARM) templates.
-⚡ Frontend: HTML/CSS, JavaScript, .
-⚡ Database: SQL Server
-⚡ Tools: Visual Studio, Visual Studio Code, Azure CLI, Git, GitHub Actions
+⚡ .NET Technologies: .NET Core, C#, ASP.NET Core, Entity Framework Core, MVC, Web API<br>
+⚡ DevOps: CI/CD pipelines, Docker, Kubernetes, Terraform, Azure Resource Manager (ARM) templates<br>
+⚡ Frontend: HTML/CSS, JavaScript<br>
+⚡ Database: SQL Server<br>
+⚡ Tools: Visual Studio, Visual Studio Code, Azure CLI, Git, GitHub Actions<br>
 
 
 Certifications
