@@ -9,10 +9,11 @@ I am a passionate Azure .NET developer with 7 years of experience in building cl
 
 👀 **Skills**
 Azure Cloud Services: Azure App Services, Azure Functions, Azure Storage, Azure DevOps, Azure SQL Database, Azure Logic Apps
-⚡ .NET Technologies: .NET Core, C#, ASP.NET Core, Entity Framework Core, MVC, Web API
-⚡ DevOps: CI/CD pipelines, Docker, Kubernetes, Terraform, Azure Resource Manager (ARM) templates
-⚡ Frontend: HTML/CSS, JavaScript, React.js
-⚡ Database: SQL Server, Cosmos DB, MongoDB
+
+⚡ .NET Technologies: .NET Core, C#, ASP.NET Core, Entity Framework Core, MVC, Web API.
+⚡ DevOps: CI/CD pipelines, Docker, Kubernetes, Terraform, Azure Resource Manager (ARM) templates.
+⚡ Frontend: HTML/CSS, JavaScript, .
+⚡ Database: SQL Server
 ⚡ Tools: Visual Studio, Visual Studio Code, Azure CLI, Git, GitHub Actions
 
 
