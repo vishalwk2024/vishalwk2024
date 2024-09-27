@@ -1,7 +1,7 @@
 
 Hello, I'm **Vishal Dusane** 👋
 
-I am a passionate Azure .NET developer with 7 years of experience in building cloud-native applications and solutions. My expertise lies in leveraging Azure services and .NET technologies to deliver scalable, secure, and high-performance applications.
+I am a passionate Azure .NET developer with 9 years of experience in building cloud-native applications and solutions. My expertise lies in leveraging Azure services and .NET technologies to deliver scalable, secure, and high-performance applications.
 
 🔭 I’m currently working on Azure services, leveraging Azure Functions and .NET Core.
 🌱 I’m constantly learning and exploring new Azure services and .NET features.
